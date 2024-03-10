@@ -11,7 +11,7 @@ addpath('quaternion');
 
 % set dataset folder
 datasetPath = ...
-  '~/nas_mapbox/Datasets/Euroc-Datasets/ijrr_dataset_paper/vicon_room1/01_easy';
+  '~/Downloads/MH_01_easy/';
 
 disp(' ');
 disp([' > dataset_load_test [', datasetPath, ']']);
